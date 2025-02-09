@@ -1,0 +1,11 @@
+{
+    "SPY": "./data/SPY_all.csv",
+    "MSFT": "./data/MSFT_all.csv",
+    "AMZN": "./data/AMZN_all.csv",
+    "META": "./data/META_all.csv",
+    "AAPL": "./data/AAPL_all.csv",
+    "GOOG": "./data/GOOG_all.csv",
+    "NVDA": "./data/NVDA_all.csv",
+    "TSLA": "./data/TSLA_all.csv",
+    "NVDA_daily": "./data/NVDA_daily.csv"
+}

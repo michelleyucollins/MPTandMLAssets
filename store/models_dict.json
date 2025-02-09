@@ -1,0 +1,57 @@
+{
+    "SPY_model": {
+        "model_path": "./models/SPY_model.pt",
+        "scaler_path": "./models/SPY_model_scaler.pkl",
+        "end_date": "2024-01-01"
+    },
+    "SPY": {
+        "model_path": "./models/SPY_model.pt",
+        "scaler_path": "./models/SPY_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "MSFT": {
+        "model_path": "./models/MSFT_model.pt",
+        "scaler_path": "./models/MSFT_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "AMZN": {
+        "model_path": "./models/AMZN_model.pt",
+        "scaler_path": "./models/AMZN_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "META": {
+        "model_path": "./models/META_model.pt",
+        "scaler_path": "./models/META_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "AAPL": {
+        "model_path": "./models/AAPL_model.pt",
+        "scaler_path": "./models/AAPL_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "GOOG": {
+        "model_path": "./models/GOOG_model.pt",
+        "scaler_path": "./models/GOOG_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "NVDA": {
+        "model_path": "./models/NVDA_model.pt",
+        "scaler_path": "./models/NVDA_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "TSLA": {
+        "model_path": "./models/TSLA_model.pt",
+        "scaler_path": "./models/TSLA_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "NVDA_daily": {
+        "model_path": "./models/NVDA_daily_model.pt",
+        "scaler_path": "./models/NVDA_daily_model_scaler.pkl",
+        "end_date": "2020-06-01"
+    },
+    "KS_Model": {
+        "model_path": "./models/KS_Model.pt",
+        "scaler_path": "./models/KS_Model_scaler.pkl",
+        "end_date": "2020-06-01"
+    }
+}
